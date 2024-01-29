@@ -1,4 +1,8 @@
 # Changelog
+## 0.5.3
+**Jan 29, 2024**
+- Dependency constraint change.
+
 ## 0.5.2
 **Aug 7, 2023**
 - Bumps dependencies to latest version.
